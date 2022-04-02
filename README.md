@@ -1,2 +1,2 @@
 # Pong
-Pong is awesome game
+Открыть сцену "_Scene_0". Она там одна.
